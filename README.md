@@ -14,5 +14,5 @@ This repo contains some of my bigger school groupprojects.
 - [@Dennis Osmani](https://www.github.com/DennisOsmani)
 - [@Harald Nilsen](https://github.com/haraldnilsen)
 - [@Martin Hansen](https://github.com/h600848)
-- [@Sander Fossedal](https://github.com/h600873)
 - [@Mussie Woldegebriel Tesfai](https://github.com/h147023)
+- [@Sander Fossedal](https://github.com/h600873)
