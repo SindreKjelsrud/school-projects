@@ -9,7 +9,10 @@ This repo contains some of my bigger school groupprojects.
 
 ## People I've worked with on these projects
 
-- [@AdrianBerget](https://github.com/ab596213)
-- [@AmundFremming](https://github.com/Amund-Fremming)
-- [@DennisOsmani](https://www.github.com/DennisOsmani)
-- [@HaraldNilsen](https://github.com/haraldnilsen)
+- [@Adrian Berget](https://github.com/ab596213)
+- [@Amund Fremming](https://github.com/Amund-Fremming)
+- [@Dennis Osmani](https://www.github.com/DennisOsmani)
+- [@Harald Nilsen](https://github.com/haraldnilsen)
+- [@Martin Hansen](https://github.com/h600848)
+- [@Sander Fossedal](https://github.com/h600873)
+- [@Mussie Woldegebriel Tesfai](https://github.com/h147023)
