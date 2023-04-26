@@ -28,6 +28,10 @@ The kanban board also helped us sort out the tasks with different colored tags t
   - Both the distribution of tasks and responsibilities (more something like A-leadership)
 - Better logging, as this could've helped the group get a better oversight of what's happening in the group, who's responsible for what, and when things need to be done.
 
+## Demo
+
+https://user-images.githubusercontent.com/93219711/234695113-5cc77945-b46d-450d-9971-c971502f72d0.mp4
+
 ---
 
 # The Projects' README
