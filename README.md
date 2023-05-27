@@ -14,7 +14,7 @@ Each project has its own README so if you'd like to know more about each one jus
 - [@Harald Nilsen](https://github.com/haraldnilsen)
 - [@Martin Hansen](https://github.com/h600848)
 - [@Mussie Woldegebriel Tesfai](https://github.com/h147023)
-- [@Sander Fossedal](https://github.com/h600873)
+- [@Sander Fossedal](https://github.com/sanderfossedal)
 
 ## What I've learned from these projects
 
